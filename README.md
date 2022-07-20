@@ -4,12 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=sambantham-p&color=orange&style=flat-square)
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <a href="https://github.com/sambantham-p /sambantham-p /">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambantham-p &show_icons=true&theme=buefy&include_all_commits=true&line_height=24&custom_title=My Github" />
 </a><br>
