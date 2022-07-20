@@ -1,5 +1,14 @@
 # Sambantham P<img align="" src="images/verified.png" height="20px" width="20px">
 
+<h1 align="center">Hi 👋, I'm Sambantham - P</h1>
+
+- 🌱 I’m currently learning  React ****
+
+- 👨‍💻 All of my projects are available at [https://github.com/sambantham-p](https://github.com/sambantham-p)
+
+- 📫 How to reach me : **sambantham0901@gmail.com**
+
+
 ![](https://komarev.com/ghpvc/?username=sambantham-p&color=orange&style=flat-square)
 
 <a href="https://github.com/sambantham-p /sambantham-p /">
