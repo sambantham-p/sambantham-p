@@ -10,11 +10,11 @@
 <a href="https://github.com/sambantham-p /sambantham-p /">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambantham-p &show_icons=true&theme=buefy&include_all_commits=true&line_height=24&custom_title=My Github" />
 </a><br>
-<a href="https://github.com/danieldavidraj/danieldavidraj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldavidraj&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
+<a href="https://github.com/sambantham-p/sambantham-p/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambantham-p&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danieldavidraj&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sambantham-p&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### SkillSet🎓
                                     
