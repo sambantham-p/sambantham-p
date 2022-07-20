@@ -2,7 +2,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-![](https://komarev.com/ghpvc/?username=sambantham &color=orange&style=flat-square)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danieldavidraj&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 
