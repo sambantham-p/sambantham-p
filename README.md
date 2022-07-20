@@ -1,7 +1,5 @@
 # Sambantham P<img align="" src="images/verified.png" height="20px" width="20px">
 
-![gitartwork](gitartwork.svg)
-
 ![](https://komarev.com/ghpvc/?username=sambantham-p&color=orange&style=flat-square)
 
 <a href="https://github.com/sambantham-p /sambantham-p /">
