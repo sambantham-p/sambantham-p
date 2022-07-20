@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sambantham - P</h1>
 
-- 🌱 I’m currently learning  React ****
+- 🌱 I’m currently learning  React 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sambantham-p](https://github.com/sambantham-p)
 
