@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=sambantham-p&color=orange&style=flat-square)
 
 <a href="https://github.com/sambantham-p /sambantham-p /">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambantham-p &show_icons=true&theme=buefy&include_all_commits=true&line_height=24&custom_title=My Github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambantham-p &show_icons=true&theme=buefy&include_all_commits=true&line_height=24&custom_title=Mygithub" />
 </a><br>
 <a href="https://github.com/sambantham-p/sambantham-p/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambantham-p&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
