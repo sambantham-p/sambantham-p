@@ -21,7 +21,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sambantham-p&icon=0&color=0)](https://visitcount.itsvg.in)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sambantham-p&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ### SkillSet🎓
                                     
