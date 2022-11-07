@@ -11,12 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sambantham-p&color=orange&style=flat-square)
 
-<a href="https://github.com/sambantham-p /sambantham-p /">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambantham-p&show_icons=true&theme=buefy&include_all_commits=true&line_height=24&custom_title=My Github" />
-</a><br>
-<a href="https://github.com/sambantham-p/sambantham-p/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambantham-p&langs_count=10&layout=compact&theme=buefy&card_width=445&custom_title=Languages you can see here" />
-</a>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sambantham-p&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -26,7 +21,7 @@
 | --- | --- |
 | **Languages** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="images/c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="images/c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="images/python.svg" height="60px" width="60px" /></a><a href="https://www.java.com/en/"><img align="left" src="images/java.png" height="60px" width="100px" /></a><a href="https://www.javascript.com/"><img align="left" src="images/js.png" height="60px" width="60px" /></a><a href="https://www.php.net/"><img align="left" src="images/php.png" height="50px" width="80px" /></a> |
 | **FrontEnd** | <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" src="images/html.png" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/CSS"><img align="left" src="images/css.png" height="60px" width="60px" /></a> |
-| **Databases** | <a href="https://www.mysql.com/"><img align="left" src="images/mysql.png" height="60px" width="80px" /></a><a href="https://www.postgresql.org/"><img align="left" src="images/postgresql.png" height="60px" width="60px" /></a><a href="https://www.mongodb.com/"><img align="left" src="images/mongo.svg" height="60px" width="60px" /></a> |
+| **Databases** | <a href="https://www.mysql.com/"><img align="left" src="images/mysql.png" height="60px" width="80px" /></a><a href="https://www.mongodb.com/"><img align="left" src="images/mongo.svg" height="60px" width="60px" /></a> |
 **Frameworks** | <a href="https://www.djangoproject.com/"><img align="left" src="images/django.png" height="60px" width="60px" /></a><a href="https://getbootstrap.com/"><img align="left" src="images/bootstrap.png" height="50px" width="60px" /></a> |
 **Libraries** | <a href="https://reactjs.org/"><img align="left" src="images/react.png" height="60px" width="60px" /></a><a href="https://jquery.com/"><img align="left" src="images/jquery.png" height="60px" width="60px" /></a> |
 **Cloud Services** | <a href="https://www.heroku.com"><img align="left" src="images/heroku.png" height="60px" width="60px" /></a> |
