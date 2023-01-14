@@ -29,10 +29,8 @@
 | --- | --- |
 | **Languages** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="images/c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="images/c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="images/python.svg" height="60px" width="60px" /></a><a href="https://www.java.com/en/"><img align="left" src="images/java.png" height="60px" width="100px" /></a><a href="https://www.javascript.com/"><img align="left" src="images/js.png" height="60px" width="60px" /></a><a href="https://www.php.net/"><img align="left" src="images/php.png" height="50px" width="80px" /></a> |
 | **FrontEnd** | <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" src="images/html.png" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/CSS"><img align="left" src="images/css.png" height="60px" width="60px" /></a> |
-| **Databases** | <a href="https://www.mysql.com/"><img align="left" src="images/mysql.png" height="60px" width="80px" /></a><a href="https://www.mongodb.com/"><img align="left" src="images/mongo.svg" height="60px" width="60px" /></a> |
+| **Databases** | <a href="https://www.mysql.com/"><img align="left" src="images/mysql.png" height="60px" width="80px" /></a> |
 **Frameworks** | <a href="https://www.djangoproject.com/"><img align="left" src="images/django.png" height="60px" width="60px" /></a><a href="https://getbootstrap.com/"><img align="left" src="images/bootstrap.png" height="50px" width="60px" /></a> |
-**Libraries** | <a href="https://reactjs.org/"><img align="left" src="images/react.png" height="60px" width="60px" /></a><a href="https://jquery.com/"><img align="left" src="images/jquery.png" height="60px" width="60px" /></a> |
-**Cloud Services** | <a href="https://www.heroku.com"><img align="left" src="images/heroku.png" height="60px" width="60px" /></a> |
 **Platforms** | <a href="https://www.microsoft.com/en-in/windows"><img align="left" src="images/windows.png" height="60px" width="60px" /></a><a href="https://www.linux.org/"><img align="left" src="images/linux.jpg" height="60px" width="60px" /></a> |
 
 ### Connect with me ♥️😼
